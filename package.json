@@ -21,7 +21,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "falafel": "^2.0.0",
+    "falafel": "^2.2.4",
     "through": "^2.3.7"
   },
   "devDependencies": {
