@@ -5,7 +5,7 @@
   "main": "./lib/transformTools.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/benbria/browserify-transform-tools.git"
+    "url": "https://github.com/shreyasch/browserify-transform-tools.git"
   },
   "keywords": [
     "browserify",
