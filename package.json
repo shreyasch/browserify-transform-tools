@@ -21,7 +21,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "falafel": "^2.2.4",
+    "falafel": "https://github.com/shreyasch/node-falafel.git",
     "through": "^2.3.7"
   },
   "devDependencies": {
